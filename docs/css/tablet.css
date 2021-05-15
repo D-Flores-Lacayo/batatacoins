@@ -1,0 +1,20 @@
+.product-card-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.plan-card-container-slide{
+    justify-content: space-around;
+}
+.main-table-container{
+display: flex;
+justify-content: center;
+}
+.contenedor-tablas{
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    margin: 0 auto;
+}
